@@ -1,2 +1,2 @@
 # Ping-Pong-ScoreKeeper
-A Ping Pong Game Score Keeper
+A Ping Pong Game Score Keeper.
